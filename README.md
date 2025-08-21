@@ -40,9 +40,9 @@
   <!-- Chester singing -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8xdnRsbnM5aHcwdmw5a2ZpaTF1NTJnY2IxN3k5Z2k1eXczZnBydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHzaK1geGgGMlmlGr9/giphy.gif" width="280" alt="Chester singing"/>
   <!-- LP logo -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Linkin Park Logo"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Linkin Park Logo"/>
   <!-- Band live -->
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280" alt="Linkin Park Live"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ294ZTJnZ3hzZW4zenFraHJ1M3puYmwwd3ozcXd2cmdiemQ0MHloOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mHs12lAKgvigg/giphy.gif" width="280" alt="Linkin Park Live"/>
 </p>
 
 <p align="center">
