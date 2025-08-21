@@ -72,3 +72,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFB&center=true&vCenter=true&width=500&lines=Ciberseguridad+%7C+Ciencia+de+Datos;Data+Driven+Security;Análisis+de+Amenazas;Machine+Learning+%7C+Big+Data" alt="Typing SVG" />
 </p>
+
+---
+
+### 🐍 Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cvaslml/Cvaslml/output/snake.svg" alt="Snake animation"/>
+</p>
