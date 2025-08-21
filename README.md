@@ -1,6 +1,6 @@
 <!-- Encabezado con tributo -->
 <p align="center">
-  <img src="https://media.tenor.com/6whWgePOgoAAAAAC/chester-bennington-linkin-park.gif" width="500" alt="Chester Bennington Tribute"/>
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="500" alt="Chester Bennington Tribute"/>
 </p>
 
 <h1 align="center">👋 Hola, soy Cvaslml</h1>
@@ -37,21 +37,19 @@
 
 ### 🎶 Inspiración
 <p align="center">
-  <!-- Chester GIF -->
-  <img src="https://media.tenor.com/z4h6oAOoj7YAAAAd/chester-bennington-linkin-park.gif" width="280" alt="Chester singing"/>
-  <!-- LP sticker -->
-  <img src="https://media.tenor.com/IYkTiM_4kwsAAAAi/linkinpark-chesterbennington.gif" width="200" alt="Linkin Park Sticker"/>
+  <!-- Chester singing -->
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="280" alt="Chester singing"/>
+  <!-- LP logo -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Linkin Park Logo"/>
   <!-- Band live -->
-  <img src="https://i.gifer.com/7YV8.gif" width="280" alt="Linkin Park performance"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280" alt="Linkin Park Live"/>
 </p>
 
 <p align="center">
-  <!-- Otro tributo Chester -->
-  <img src="https://media.tenor.com/j1LpcZtkvNEAAAAC/chester-bennington-lp.gif" width="280" alt="Chester Tribute"/>
-  <!-- Logo LP animado -->
-  <img src="https://media.tenor.com/qP9Zz3uwvdoAAAAC/linkin-park.gif" width="200" alt="Linkin Park logo"/>
-  <!-- Fans lights -->
-  <img src="https://media.tenor.com/dFZ9fZxIac0AAAAC/linkinpark.gif" width="280" alt="Linkin Park crowd"/>
+  <!-- Chester closeup -->
+  <img src="https://media.giphy.com/media/3oEjHI8zVYv9zE8Uuk/giphy.gif" width="280" alt="Chester closeup"/>
+  <!-- LP crowd -->
+  <img src="https://media.giphy.com/media/l0HlOBZfE0M3Y3PqM/giphy.gif" width="280" alt="Linkin Park crowd"/>
 </p>
 
 ---
