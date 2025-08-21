@@ -37,8 +37,21 @@
 
 ### 🎶 Inspiración
 <p align="center">
-  <img src="https://media.tenor.com/z4h6oAOoj7YAAAAd/chester-bennington-linkin-park.gif" width="300" alt="Chester singing"/>
-  <img src="https://i.gifer.com/3FJW.gif" width="300" alt="LP lights"/>
+  <!-- Chester GIF -->
+  <img src="https://media.tenor.com/z4h6oAOoj7YAAAAd/chester-bennington-linkin-park.gif" width="280" alt="Chester singing"/>
+  <!-- LP sticker -->
+  <img src="https://media.tenor.com/IYkTiM_4kwsAAAAi/linkinpark-chesterbennington.gif" width="200" alt="Linkin Park Sticker"/>
+  <!-- Band live -->
+  <img src="https://i.gifer.com/7YV8.gif" width="280" alt="Linkin Park performance"/>
+</p>
+
+<p align="center">
+  <!-- Otro tributo Chester -->
+  <img src="https://media.tenor.com/j1LpcZtkvNEAAAAC/chester-bennington-lp.gif" width="280" alt="Chester Tribute"/>
+  <!-- Logo LP animado -->
+  <img src="https://media.tenor.com/qP9Zz3uwvdoAAAAC/linkin-park.gif" width="200" alt="Linkin Park logo"/>
+  <!-- Fans lights -->
+  <img src="https://media.tenor.com/dFZ9fZxIac0AAAAC/linkinpark.gif" width="280" alt="Linkin Park crowd"/>
 </p>
 
 ---
@@ -61,6 +74,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFB&center=true&vCenter=true&width=500&lines=Ciberseguridad+%7C+Ciencia+de+Datos;Data+Driven+Security;Análisis+de+Amenazas;Machine+Learning+%7C+Big+Data" alt="Typing SVG" />
 </p>
-
----
-
