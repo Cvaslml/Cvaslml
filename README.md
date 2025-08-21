@@ -1,6 +1,6 @@
 <!-- Encabezado con tributo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="500" alt="Chester Bennington Tribute"/>
+  <img src="[https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRnMWR3cHJuODBzbWluc2Vmc3Zwcnl0aHVzd2FyNHloNXZwc3l5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mfhIlzn4UZb68/giphy.gif)" width="500" alt="Chester Bennington Tribute"/>
 </p>
 
 <h1 align="center">👋 Hola, soy Cvaslml</h1>
