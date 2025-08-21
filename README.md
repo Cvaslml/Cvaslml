@@ -38,7 +38,7 @@
 ### 🎶 Inspiración
 <p align="center">
   <!-- Chester singing -->
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="280" alt="Chester singing"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8xdnRsbnM5aHcwdmw5a2ZpaTF1NTJnY2IxN3k5Z2k1eXczZnBydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHzaK1geGgGMlmlGr9/giphy.gif" width="280" alt="Chester singing"/>
   <!-- LP logo -->
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Linkin Park Logo"/>
   <!-- Band live -->
