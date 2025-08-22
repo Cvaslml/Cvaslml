@@ -61,7 +61,9 @@
 ---
 
 ### 🐍 Snake (contribuciones)
-![Snake animation](https://github.com/Cvaslml/Cvaslml/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cvaslml/Cvaslml/output/snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
